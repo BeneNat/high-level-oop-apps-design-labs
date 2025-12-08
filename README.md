@@ -1,30 +1,36 @@
-# High-Level OOP Applications Design: C# Labs
+# High-Level Object-Oriented Applications Design
 
-This repository contains practical laboratory assignments and a final project developed as part of the "Designing and creating high-level object-oriented applications" course. The project focuses on applying fundamental C# concepts, mastering complex inheritance structures, and implementing professional software design patterns.
+This repository contains a collection of laboratory assignments and software projects developed for the **"Designing and creating high-level object-oriented applications"** course. The primary focus of this codebase is to demonstrate advanced C# programming techniques, software architecture principles, and the practical application of object-oriented design patterns.
 
-## Project Context and Objective
+## Project Overview
 
-The primary goal of this collection is to demonstrate proficiency in advanced OOP principles using the .NET framework, specifically C#. Each module progresses from basic language features toward designing and implementing robust, modular applications that adhere to best practices in software engineering.
+The repository is organized into progressive modules, moving from fundamental language features to complex system designs.
+
+* [cite_start]**Lab 1: Inheritance & Hierarchies**: Exploration of access modifiers, constructor chaining, and deep inheritance trees using a Travel Management System context[cite: 12].
+* *(Future labs will be added here)*
 
 ## Technologies
 
-* **Language**: C#
-* **Framework**: .NET 8.0 (or newer)
-* **Tools**: Visual Studio / JetBrains Rider
+* **Language**: C# 12
+* **Framework**: .NET 8.0
+* **IDE**: Visual Studio 2022 / JetBrains Rider
 
 ## Repository Structure
 
-The codebase is organized by lab session, with each directory acting as a separate module or project within the main solution file (`HighLevelAppDesign.sln`).
+The solution is structured by laboratory sessions. Each directory typically contains in-class exercises and a larger homework system.
 
 ```text
 ├── Lab1-Inheritance/
-│   ├── Lab1-Basics/             # In-class exercise focusing on fundamental concepts
-│   └── WorldTour-System/        # Complex homework project (UML-based implementation)
-└── ...
+│   ├── Lab1-Basics/             # Fundamental inheritance concepts (Animal/Bird)
+│   └── WorldTour-System/        # Complex class hierarchy implementation (WorldTour)
+├── .gitignore                   # Standard .NET exclusion rules
+├── HighLevelAppDesign.sln       # Main solution file
+└── README.md                    # Project documentation
 ```
 
 ## Setup and Installation
-To set up the development environment, ensure you have the .NET SDK installed.
+
+To set up the development environment, ensure you have the .NET 8.0 SDK installed.
 
 1. Clone the repository:
 
@@ -33,13 +39,11 @@ To set up the development environment, ensure you have the .NET SDK installed.
     cd high-level-oop-apps-design-labs
     ```
 
-2. Open the Solution: The entire project structure can be loaded by opening the main solution file:
+2. Open the Solution: Launch the main solution file to access all projects:
 
     ```Bash
     HighLevelAppDesign.sln
-    ``` 
-
-(via Visual Studio or Rider). All projects will be available for building and running.
+    ```
 
 ## Authors and Context
 
