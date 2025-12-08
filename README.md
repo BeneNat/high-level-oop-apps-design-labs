@@ -54,4 +54,4 @@ To set up the development environment, ensure you have the .NET SDK installed.
 This software is distributed under the MIT License. Refer to the [LICENSE](LICENSE) file for the full text.
 
 ---
-*AGH University of Krakow - Designing and creating high-level object-oriented applications Project 2025*
+*AGH University of Krakow - Designing and creating high-level object-oriented applications 2025*
