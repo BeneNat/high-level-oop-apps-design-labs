@@ -1,52 +1,68 @@
 # Lab 1: Inheritance and Class Hierarchy Design
 
-This module covers the core principles of class inheritance in C#, including access control, constructor chaining, and the practical application of these concepts in designing a structured, multi-level class system.
+This module investigates the impact of access modifiers on inheritance and the implementation of complex polymorphic structures in C#. It consists of basic exercises validating language rules and a comprehensive system modeling a world travel itinerary.
 
-## Module Overview
+## Part 1: Inheritance Fundamentals (Lab1-Basics)
 
-The assignment is composed of two distinct components: a focused, in-class exercise (`Lab1-Basics`) and a complex design project (`WorldTour-System`) based on a provided UML specification.
+The objective of the in-class exercises was to explore how C# handles member accessibility and initialization in an inheritance chain.
 
-### Part 1: Inheritance Fundamentals (`Lab1-Basics`)
+### Key Concepts Implemented:
+* **Access Modifiers**: Verification of visibility for `public`, `protected`, and `private` members between base and derived classes. Implemented in the `Animal` class[cite: 2].
+* **Class Hierarchy**: Implementation of a linear chain: `Animal` $\to$ `Bird` $\to$ `Flamingo`[cite: 5, 17].
+* **Constructor Chaining**: Usage of the `base` keyword to correctly initialize parent class state (e.g., passing `name` and `weight` to the `Animal` constructor)[cite: 17].
+* **Behavior Extension**: Adding specific methods such as `LayEggs` in `Bird` and `Incubation` in `Flamingo` to demonstrate functional extension[cite: 5, 17].
 
-This section focuses on the strict rules governing access to inherited members. The primary objective was to:
+## Part 2: WorldTour System (Homework)
 
-* **Access Control Demonstration**: Verify visibility and accessibility of `public`, `protected`, and `private` members across a three-level hierarchy (`Animal` -> `Bird` -> `Flamingo`).
-* **Constructor Implementation**: Utilize the `base` keyword to ensure proper initialization and state management in the base classes when derived class objects are instantiated.
-* **Polymorphic Behavior**: Extend base functionality by overriding or adding specialized methods (e.g., `LayEggs`, `Incubation`).
+The `WorldTour-System` project implements a complex inheritance hierarchy based on the "Trip around the world" topic. It models a budget and itinerary management system, strictly adhering to the **Is-A relationship** principle[cite: 12].
 
-### Part 2: WorldTour System - UML Implementation
+### System Architecture
 
-The `WorldTour-System` is an implementation of a complex class hierarchy modeling a global travel management system. The design strictly adheres to the provided UML diagram to demonstrate capability in translating architectural specifications into functional C# code.
+The system is visualized in the `WorldTour.drawio` UML diagram[cite: 22].
 
-#### System Architecture Overview
+#### Core Components
+* **WorldTour**: The central base class managing the budget, number of countries, and start date[cite: 11].
+* **Itinerary**: Handles the logic for adding places and tracking travel modes[cite: 26].
 
-The system manages travel itineraries, costs, and modes of transport for a planned world tour.
+#### Transport Hierarchy (Polymorphism)
+The project features a deep inheritance tree allowing for polymorphic handling of various transport modes:
 
-* **Core Entities**: `WorldTour` (Budget & Date Management), `Itinerary` (Plan Management).
-* **Transport Hierarchy**: A deep inheritance tree for various travel modes, ensuring the **Is-A relationship** is maintained throughout:
+1.  **Global Level**:
+    * `GlobalTransport` extends `WorldTour` to handle long-distance travel metrics like average cost[cite: 8].
+    * Derived classes: `IntercontinentalFlight` (Airline details) [cite: 10] and `OceanCruise` (Ship details)[cite: 27].
 
-| Level | Base Class (Abstract/Concrete) | Example Derived Classes | Design Focus |
-| :--- | :--- | :--- | :--- |
-| **1** | `GlobalTransport` | `IntercontinentalFlight`, `OceanCruise` | High-level, long-distance travel. |
-| **2** | `LocalTransport` | `RoadTransport`, `AirTransport` | Intermediate abstract layer for regional travel. |
-| **3** | `RoadTransport` | `BusTransport`, `TrainTransport`, `TaxiTransport` | Specialized cost/speed calculation based on ground transport type. |
+2.  **Local Level**:
+    * `LocalTransport`: Abstract layer for regional travel[cite: 6].
+    * `RoadTransport`: Base for ground vehicles (`Bus`, `Train`, `Taxi`), managing speed limits and toll costs[cite: 21, 15, 9, 7].
+    * `AirTransport`: Base for regional flights, managing baggage and airport codes[cite: 25].
+        * Derived classes include `DomesticFlight` [cite: 20] and `HelicopterTransport`[cite: 12].
 
-This structure leverages polymorphism, allowing the system to treat all transport types uniformly while executing their specific logic.
+#### Planning Hierarchy
+* **ContinentalPlan**: Tracks visited countries on a specific continent[cite: 14].
+* **CityPlan**: Extends the continental plan to manage specific city landmarks[cite: 4].
 
-## Project Structure (Lab 1 Module)
+## Project Structure
+
+The module is divided into two projects:
 
 ```text
-├── Lab1-Inheritance/
-│   ├── README.md                # This documentation file
-│   │
-│   ├── Lab1-Basics/             # In-class exercise project
-│   │   └── ... (Animal.cs, Bird.cs, Program.cs)
-│   │
-│   └── WorldTour-System/        # Homework project
-│       ├── WorldTour.drawio     # Original UML diagram (for reference)
-│       ├── Transport/           # Folder for the Transport Hierarchy classes
-│       ├── Itinerary/           # Folder for Planning Hierarchy classes
-│       └── ... (Program.cs)
+├── Lab1-Basics/                 # Namespace: zadanie1
+│   ├── Animal.cs
+│   ├── Bird.cs
+│   ├── Flamingo.cs
+│   └── Program.cs
+│
+└── WorldTour-System/            # Namespace: WorldTour
+    ├── WorldTour.drawio         # UML Diagram
+    └── WorldTour/               # Main Project Source
+        ├── WorldTour.cs         # Base Class
+        ├── Itinerary.cs         # Planning Logic
+        ├── Transport/           # (Logical Grouping)
+        │   ├── GlobalTransport.cs
+        │   ├── LocalTransport.cs
+        │   ├── RoadTransport.cs
+        │   └── AirTransport.cs
+        └── ... (Concrete Implementations: Taxi, Bus, Train, etc.)
 ```
 
 ## Authors and Context
