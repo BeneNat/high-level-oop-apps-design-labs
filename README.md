@@ -26,19 +26,18 @@ The codebase is organized by lab session, with each directory acting as a separa
 ## Setup and Installation
 To set up the development environment, ensure you have the .NET SDK installed.
 
-    1. Clone the repository:
+1. Clone the repository:
 
-        ```Bash
-        git clone https://github.com/BeneNat/high-level-oop-apps-design-labs
-        cd high-level-oop-apps-design-labs
-        ```
+    ```Bash
+    git clone https://github.com/BeneNat/high-level-oop-apps-design-labs
+    cd high-level-oop-apps-design-labs
+    ```
 
-    2. Open the Solution: The entire project structure can be loaded by opening the main solution file:
+2. Open the Solution: The entire project structure can be loaded by opening the main solution file:
 
-        ```Bash
-        
-        HighLevelAppDesign.sln
-        ``` 
+    ```Bash
+    HighLevelAppDesign.sln
+    ``` 
 
 (via Visual Studio or Rider). All projects will be available for building and running.
 
