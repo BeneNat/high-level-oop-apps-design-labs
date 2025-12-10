@@ -7,39 +7,39 @@ This module investigates the impact of access modifiers on inheritance and the i
 The objective of the in-class exercises was to explore how C# handles member accessibility and initialization in an inheritance chain.
 
 ### Key Concepts Implemented:
-* **Access Modifiers**: Verification of visibility for `public`, `protected`, and `private` members between base and derived classes. Implemented in the `Animal` class[cite: 2].
-* **Class Hierarchy**: Implementation of a linear chain: `Animal` $\to$ `Bird` $\to$ `Flamingo`[cite: 5, 17].
-* **Constructor Chaining**: Usage of the `base` keyword to correctly initialize parent class state (e.g., passing `name` and `weight` to the `Animal` constructor)[cite: 17].
-* **Behavior Extension**: Adding specific methods such as `LayEggs` in `Bird` and `Incubation` in `Flamingo` to demonstrate functional extension[cite: 5, 17].
+* **Access Modifiers**: Verification of visibility for `public`, `protected`, and `private` members between base and derived classes. Implemented in the `Animal` class.
+* **Class Hierarchy**: Implementation of a linear chain: `Animal` $\to$ `Bird` $\to$ `Flamingo`.
+* **Constructor Chaining**: Usage of the `base` keyword to correctly initialize parent class state (e.g., passing `name` and `weight` to the `Animal` constructor).
+* **Behavior Extension**: Adding specific methods such as `LayEggs` in `Bird` and `Incubation` in `Flamingo` to demonstrate functional extension.
 
 ## Part 2: WorldTour System (Homework)
 
-The `WorldTour-System` project implements a complex inheritance hierarchy based on the "Trip around the world" topic. It models a budget and itinerary management system, strictly adhering to the **Is-A relationship** principle[cite: 12].
+The `WorldTour-System` project implements a complex inheritance hierarchy based on the "Trip around the world" topic. It models a budget and itinerary management system, strictly adhering to the **Is-A relationship** principle.
 
 ### System Architecture
 
-The system is visualized in the `WorldTour.drawio` UML diagram[cite: 22].
+The system is visualized in the `WorldTour.drawio` UML diagram.
 
 #### Core Components
-* **WorldTour**: The central base class managing the budget, number of countries, and start date[cite: 11].
-* **Itinerary**: Handles the logic for adding places and tracking travel modes[cite: 26].
+* **WorldTour**: The central base class managing the budget, number of countries, and start date.
+* **Itinerary**: Handles the logic for adding places and tracking travel modes.
 
 #### Transport Hierarchy (Polymorphism)
 The project features a deep inheritance tree allowing for polymorphic handling of various transport modes:
 
 1.  **Global Level**:
-    * `GlobalTransport` extends `WorldTour` to handle long-distance travel metrics like average cost[cite: 8].
-    * Derived classes: `IntercontinentalFlight` (Airline details) [cite: 10] and `OceanCruise` (Ship details)[cite: 27].
+    * `GlobalTransport` extends `WorldTour` to handle long-distance travel metrics like average cost.
+    * Derived classes: `IntercontinentalFlight` (Airline details) and `OceanCruise` (Ship details).
 
 2.  **Local Level**:
-    * `LocalTransport`: Abstract layer for regional travel[cite: 6].
-    * `RoadTransport`: Base for ground vehicles (`Bus`, `Train`, `Taxi`), managing speed limits and toll costs[cite: 21, 15, 9, 7].
-    * `AirTransport`: Base for regional flights, managing baggage and airport codes[cite: 25].
-        * Derived classes include `DomesticFlight` [cite: 20] and `HelicopterTransport`[cite: 12].
+    * `LocalTransport`: Abstract layer for regional travel.
+    * `RoadTransport`: Base for ground vehicles (`Bus`, `Train`, `Taxi`), managing speed limits and toll costs.
+    * `AirTransport`: Base for regional flights, managing baggage and airport codes.
+        * Derived classes include `DomesticFlight` and `HelicopterTransport`.
 
 #### Planning Hierarchy
-* **ContinentalPlan**: Tracks visited countries on a specific continent[cite: 14].
-* **CityPlan**: Extends the continental plan to manage specific city landmarks[cite: 4].
+* **ContinentalPlan**: Tracks visited countries on a specific continent.
+* **CityPlan**: Extends the continental plan to manage specific city landmarks.
 
 ## Project Structure
 
