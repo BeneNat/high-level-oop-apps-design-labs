@@ -6,7 +6,8 @@ This repository contains a collection of laboratory assignments and software pro
 
 The repository is organized into progressive modules, moving from fundamental language features to complex system designs.
 
-* [cite_start]**Lab 1: Inheritance & Hierarchies**: Exploration of access modifiers, constructor chaining, and deep inheritance trees using a Travel Management System context[cite: 12].
+* **Lab 1: Inheritance & Hierarchies**: Exploration of access modifiers, constructor chaining, and deep inheritance trees using a Travel Management System context.
+* **Lab 2: Polymorphism & Abstraction**: Implementation of abstract base classes, interfaces, and dynamic dispatch handling using a Medieval Castle simulation.
 * *(Future labs will be added here)*
 
 ## Technologies
@@ -23,6 +24,9 @@ The solution is structured by laboratory sessions. Each directory typically cont
 ├── Lab1-Inheritance/
 │   ├── Lab1-Basics/             # Fundamental inheritance concepts (Animal/Bird)
 │   └── WorldTour-System/        # Complex class hierarchy implementation (WorldTour)
+├── Lab2-Polymorphism/
+│   ├── Lab2-Basics/             # Abstract classes & Overriding (Vehicles)
+│   └── MedievalCastle-System/   # Interface-based polymorphism (Castle Defenders)
 ├── .gitignore                   # Standard .NET exclusion rules
 ├── HighLevelAppDesign.sln       # Main solution file
 └── README.md                    # Project documentation
