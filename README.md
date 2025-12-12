@@ -9,6 +9,7 @@ The repository is organized into progressive modules, moving from fundamental la
 * **Lab 1: Inheritance & Hierarchies**: Exploration of access modifiers, constructor chaining, and deep inheritance trees using a Travel Management System context.
 * **Lab 2: Polymorphism & Abstraction**: Implementation of abstract base classes, interfaces, and dynamic dispatch handling using a Medieval Castle simulation.
 * **Lab 3: OOP in Practice (Submarine)**: Development of a complex simulation system involving interacting subsystems (Life Support, Engine), resource management, and unit testing via reflection.
+* **Lab 4: UML Modeling**: Architectural design of the "WorldTour" system using UML class diagrams, featuring inheritance, composition, and design patterns.
 * *(Future labs will be added here)*
 
 ## Technologies
@@ -30,6 +31,8 @@ The solution is structured by laboratory sessions. Each directory typically cont
 │   └── MedievalCastle-System/   # Interface-based polymorphism (Castle Defenders)
 ├── Lab3-Submarine/
 │   └── Submarine/               # Comprehensive simulation project
+├── Lab4-UML/
+│   └── WorldTour-Diagram/       # System architecture diagrams (PDF/PNG/Source)
 ├── .gitignore                   # Standard .NET exclusion rules
 ├── HighLevelAppDesign.sln       # Main solution file
 └── README.md                    # Project documentation
