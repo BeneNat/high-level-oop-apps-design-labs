@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\intercitytransportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:intercitytransportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\transportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:transportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\busticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:busticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\citytransportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:citytransportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\trainticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:trainticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\carrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:carrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\trainfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:trainfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\busfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:busfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium5\\lab5\\ibuyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A79850-098D-405F-844A-01552699669A}|lab5.csproj|solutionrelative:ibuyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainTicket.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\TrainTicket.cs",
+              "RelativeDocumentMoniker": "TrainTicket.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\TrainTicket.cs",
+              "RelativeToolTip": "TrainTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:32:10.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterCityTransportFactory.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\InterCityTransportFactory.cs",
+              "RelativeDocumentMoniker": "InterCityTransportFactory.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\InterCityTransportFactory.cs",
+              "RelativeToolTip": "InterCityTransportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:31:34.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusTicket.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\BusTicket.cs",
+              "RelativeDocumentMoniker": "BusTicket.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\BusTicket.cs",
+              "RelativeToolTip": "BusTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:30:02.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityTransportFactory.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\CityTransportFactory.cs",
+              "RelativeDocumentMoniker": "CityTransportFactory.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\CityTransportFactory.cs",
+              "RelativeToolTip": "CityTransportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:28:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCoAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:25:18.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\CarRentalService.cs",
+              "RelativeDocumentMoniker": "CarRentalService.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\CarRentalService.cs",
+              "RelativeToolTip": "CarRentalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:38:43.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\CarFactory.cs",
+              "RelativeDocumentMoniker": "CarFactory.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\CarFactory.cs",
+              "RelativeToolTip": "CarFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:34:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusFactory.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\BusFactory.cs",
+              "RelativeDocumentMoniker": "BusFactory.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\BusFactory.cs",
+              "RelativeToolTip": "BusFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:33:14.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrainFactory.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\TrainFactory.cs",
+              "RelativeDocumentMoniker": "TrainFactory.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\TrainFactory.cs",
+              "RelativeToolTip": "TrainFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:30:15.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransportFactory.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\TransportFactory.cs",
+              "RelativeDocumentMoniker": "TransportFactory.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\TransportFactory.cs",
+              "RelativeToolTip": "TransportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:26:05.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Train.cs",
+              "RelativeDocumentMoniker": "Train.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Train.cs",
+              "RelativeToolTip": "Train.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:26:00.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Ticket.cs",
+              "RelativeDocumentMoniker": "Ticket.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Ticket.cs",
+              "RelativeToolTip": "Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:25:55.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBuyTicket.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\IBuyTicket.cs",
+              "RelativeDocumentMoniker": "IBuyTicket.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\IBuyTicket.cs",
+              "RelativeToolTip": "IBuyTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:25:22.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Bus.cs",
+              "RelativeDocumentMoniker": "Bus.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Bus.cs",
+              "RelativeToolTip": "Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:25:12.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:23:53.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\VehicleFactory.cs",
+              "RelativeToolTip": "VehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:21:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium5\\lab5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:20:58.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
