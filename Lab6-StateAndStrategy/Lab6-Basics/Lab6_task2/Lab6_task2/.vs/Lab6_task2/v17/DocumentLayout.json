@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium6\\lab6_task2\\lab6_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium6\\lab6_task2\\lab6_task2\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|solutionrelative:sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium6\\lab6_task2\\lab6_task2\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|solutionrelative:insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium6\\lab6_task2\\lab6_task2\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|solutionrelative:selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|c:\\users\\student\\documents\\dachlooapps_wt1500\\laboratorium6\\lab6_task2\\lab6_task2\\sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635E228B-D8C8-4109-8503-E0B786D4CCC0}|Lab6_task2.csproj|solutionrelative:sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortingAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\SortingAlgorithm.cs",
+              "RelativeDocumentMoniker": "SortingAlgorithm.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\SortingAlgorithm.cs",
+              "RelativeToolTip": "SortingAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:58:41.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "SelectionSort.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\SelectionSort.cs",
+              "RelativeToolTip": "SelectionSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:58:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "InsertionSort.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\InsertionSort.cs",
+              "RelativeToolTip": "InsertionSort.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:58:35.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sorter.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\Sorter.cs",
+              "RelativeDocumentMoniker": "Sorter.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\Sorter.cs",
+              "RelativeToolTip": "Sorter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:57:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\DaCHLOOApps_wt1500\\Laboratorium6\\Lab6_task2\\Lab6_task2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:56:14.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
