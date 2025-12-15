@@ -11,6 +11,7 @@ The repository is organized into progressive modules, moving from fundamental la
 * **Lab 3: OOP in Practice (Submarine)**: Development of a complex simulation system involving interacting subsystems (Life Support, Engine), resource management, and unit testing via reflection.
 * **Lab 4: UML Modeling**: Architectural design of the "WorldTour" system using UML class diagrams, featuring inheritance, composition, and design patterns.
 * **Lab 5: Creational Design Patterns**: Implementation of Factory Method and Abstract Factory patterns to decouple object creation from business logic, applied to Vehicle/Transport systems and an Ice Cream Shop simulation.
+* **Lab 6: Behavioral Design Patterns**: Application of **State** and **Strategy** patterns to manage object lifecycle (Water Cycle), game states, and interchangeable algorithms (Sorting).
 * *(Future labs will be added here)*
 
 ## Technologies
@@ -37,6 +38,9 @@ The solution is structured by laboratory sessions. Each directory typically cont
 ├── Lab5-FactoryPattern/
 │   ├── lab5/                    # Factory Method & Abstract Factory exercises (Vehicles)
 │   └── IceCreamStand/           # Dynamic Factory implementation (Ice Cream Shop)
+├── Lab6-StateAndStrategy/
+│   ├── Lab6-Basics/             # State (Game) and Strategy (Sorter) exercises
+│   └── WaterLifecycle-System/   # Water Cycle simulation (State Pattern)
 ├── .gitignore                   # Standard .NET exclusion rules
 ├── HighLevelAppDesign.sln       # Main solution file
 └── README.md                    # Project documentation
