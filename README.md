@@ -12,7 +12,7 @@ The repository is organized into progressive modules, moving from fundamental la
 * **Lab 4: UML Modeling**: Architectural design of the "WorldTour" system using UML class diagrams, featuring inheritance, composition, and design patterns.
 * **Lab 5: Creational Design Patterns**: Implementation of Factory Method and Abstract Factory patterns to decouple object creation from business logic, applied to Vehicle/Transport systems and an Ice Cream Shop simulation.
 * **Lab 6: Behavioral Design Patterns**: Application of **State** and **Strategy** patterns to manage object lifecycle (Water Cycle), game states, and interchangeable algorithms (Sorting).
-* *(Future labs will be added here)*
+* **Lab 7: Command & Adapter Patterns**: Encapsulation of requests as objects to create flexible task schedulers (Smart Home) and itinerary planners (Tourist Trip), plus integrating incompatible interfaces using Adapters.
 
 ## Technologies
 
@@ -41,6 +41,9 @@ The solution is structured by laboratory sessions. Each directory typically cont
 ├── Lab6-StateAndStrategy/
 │   ├── Lab6-Basics/             # State (Game) and Strategy (Sorter) exercises
 │   └── WaterLifecycle-System/   # Water Cycle simulation (State Pattern)
+├── Lab7-CommandAndAdapter/
+│   ├── Lab7-Basics/             # Command (Smart Home) & Adapter (WiFi)
+│   └── TouristTrip-System/      # Command Pattern for itinerary scheduling
 ├── .gitignore                   # Standard .NET exclusion rules
 ├── HighLevelAppDesign.sln       # Main solution file
 └── README.md                    # Project documentation
