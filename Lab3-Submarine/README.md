@@ -44,32 +44,32 @@ All source files are contained within the main project directory.
 ```text
 ├── Lab3-Submarine/
 │   ├── README.md                # This documentation file
-│   ├── Submarine.sln            # Module-specific solution file
 │   │
 │   └── Submarine/               # Main Project Source
 │       ├── Program.cs           # Entry point (Runs tests & simulation)
 │       ├── Submarine.cs         # Main simulation loop
 │       ├── TestSubmarine.cs     # Automated validation logic
-│       ├── TestContents.cs      # Reflection helpers for testing
 │       │
-│       ├── ITransportable.cs    # Interface for weight/volume logic
-│       ├── IVisitPort.cs        # Interface for port operations
+│       │   # Interfaces & Base Logic
+│       ├── ITransportable.cs
+│       ├── IVisitPort.cs
 │       │
-│       ├── Human.cs             # Abstract base class for crew
-│       ├── Crewman.cs           # Concrete crew implementation
-│       ├── Scientist.cs         # Crew member using equipment
+│       │   # Crew & Life Support
+│       ├── Human.cs
+│       ├── Crewman.cs
+│       ├── Scientist.cs
+│       ├── LifeSupportSystem.cs
 │       │
-│       ├── Fuel.cs              # Abstract fuel base
-│       ├── FuelDiesel.cs        # Diesel implementation
-│       ├── FuelNuclear.cs       # Nuclear implementation
-│       ├── FuelTank.cs          # Fuel storage logic
-│       │
-│       ├── Engine.cs            # Logic for movement and consumption
-│       ├── LifeSupportSystem.cs # Logic for survival
-│       ├── Equipment.cs         # Scientific equipment
-│       ├── Waste.cs             # Waste management
-│       ├── FoodContainer.cs     # Food storage
-│       └── OxygenBootle.cs      # Oxygen storage
+│       │   # Mechanics & Resources
+│       ├── Engine.cs
+│       ├── Fuel.cs
+│       ├── FuelDiesel.cs
+│       ├── FuelNuclear.cs
+│       ├── FuelTank.cs
+│       ├── Waste.cs
+│       ├── Equipment.cs
+│       ├── FoodContainer.cs
+│       └── OxygenBootle.cs
 ```
 
 ## Authors and Context

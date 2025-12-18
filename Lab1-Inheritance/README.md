@@ -55,14 +55,22 @@ The module is divided into two projects:
 └── WorldTour-System/            # Namespace: WorldTour
     ├── WorldTour.drawio         # UML Diagram
     └── WorldTour/               # Main Project Source
-        ├── WorldTour.cs         # Base Class
-        ├── Itinerary.cs         # Planning Logic
-        ├── Transport/           # (Logical Grouping)
-        │   ├── GlobalTransport.cs
-        │   ├── LocalTransport.cs
-        │   ├── RoadTransport.cs
-        │   └── AirTransport.cs
-        └── ... (Concrete Implementations: Taxi, Bus, Train, etc.)
+        ├── WorldTour.cs         # Base Context Class
+        ├── Program.cs           # Entry point
+        │
+        │   # Transport Logic
+        ├── GlobalTransport.cs
+        ├── LocalTransport.cs
+        ├── RoadTransport.cs
+        ├── AirTransport.cs
+        ├── TaxiTransport.cs
+        ├── TrainTransport.cs
+        ├── ... (Other transport classes)
+        │
+        │   # Itinerary Logic
+        ├── Itinerary.cs
+        ├── ContinentalPlan.cs
+        └── CityPlan.cs
 ```
 
 ## Authors and Context
