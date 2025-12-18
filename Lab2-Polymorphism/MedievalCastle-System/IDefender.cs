@@ -1,4 +1,4 @@
-namespace MedivalCastle;
+namespace MedievalCastle;
 
 public interface IDefender
 {
