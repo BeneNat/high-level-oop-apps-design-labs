@@ -66,7 +66,7 @@ The project models the castle's population using a strict inheritance tree and r
 
 ## License
 
-This software is distributed under the MIT License. Refer to the [LICENSE](LICENSE) file for the full text.
+This software is distributed under the MIT License. Refer to the [LICENSE](../LICENSE) file for the full text.
 
 ---
 *AGH University of Krakow - Designing and creating high-level object-oriented applications 2025*
