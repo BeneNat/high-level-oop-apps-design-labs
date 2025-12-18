@@ -52,3 +52,26 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+## Visual Studio ##
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider (.NET) ##
+.idea/
+*.sln.iml
+*.xproj
+*.DotSettings.user
+
+## Visual Studio Code ##
+.vscode/
+
+## Generic .NET ##
+var/
+
+## Mac/Linux system files ##
+.DS_Store
+Thumbs.db
